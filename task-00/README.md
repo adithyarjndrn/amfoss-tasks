@@ -1,6 +1,6 @@
 # INSTALLATION OF UBUNTU 20.04 (Desktop)
 
-## The instalation of ubuntu is very beginner friendly,Anybody with or without any pirior knowlegde can easily do it.The only requirement is a usb drive,good pc (i5/i7/ryzen 5/7) and a bit of common sense xD .
+### The instalation of ubuntu is very beginner friendly,Anybody with or without any pirior knowlegde can easily do it.The only requirement is a usb drive,good pc (i5/i7/ryzen 5/7) and a bit of common sense xD .
 
 1# Go to the official website of Ubuntu and download Ubuntu version 20.04.ALong with it also download ( Rufus - Create bootable USB drives  ) for cmaking the usb bootable.
 
