@@ -37,5 +37,6 @@ rmdir East
 
 cat East.txt North.txt > Location-Coordinante.txt                                      
 
+![Screenshot from 2021-10-10 22-23-10](https://user-images.githubusercontent.com/89097182/136734710-a168c821-3a4a-4692-af22-32c7dfcc3ce1.png)
 
  Co ordinates: 9°05'38.1"N 76°29'30.8"E
