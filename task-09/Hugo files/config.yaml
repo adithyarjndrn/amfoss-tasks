@@ -1,0 +1,137 @@
+baseURL: "https://adithyarjndrn.github.io/"
+title: "My Life"
+paginate: 5
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+googleAnalytics: UA-123-45
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: ExampleSite
+  description: "ExampleSite description"
+  keywords: [Blog, Portfolio, PaperMod]
+  author: Me
+  # author: ["Me", "You"] # multiple authors
+  images: ["<link or path of image for opengraph, twitter-cards>"]
+  DateFormat: "May 2, 2006"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+
+  ShowReadingTime: false
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: true
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon: "<link / abs url>"
+    favicon16x16: "<link / abs url>"
+    favicon32x32: "<link / abs url>"
+    apple_touch_icon: "<link / abs url>"
+    safari_pinned_tab: "<link / abs url>"
+
+  label:
+    text: "Home"
+    icon: https://www.mcicon.com/wp-content/uploads/2021/03/Cat-18-600x600.jpg
+    iconHeight: 35
+
+  # profile-mode
+  profileMode:
+    enabled: true # needs to be explicitly set
+    title: Adithya Rajxdrn
+    subtitle: "Hey Developers \U0001F44B
+    This is adithya rajendran,I am doing my bachelors in Amrita in Cse department.I like singing, coding,sports and vibing buddies .To be Honest For me the Some the amFoss tasks were easy as one-two-three and i think it can be even solved by very beginners like me.But some was little bit Time Consuming tasks..but tat was not much that of an issue..Overall The tasks were very helpfull for intitial push start for my course and also the tasks introduced me various things ike making an app,a website(yss this my first time making one..pardon my mistakes \U0001F601) which i havent even think about whether i could do it       
+    [Warning dont click POSTS]"
+   
+    imageUrl: "https://keepmeme.com/meme/20210623/cat-standing-on-2-legs-holding-a-knife-meme.webp"
+    imageWidth: 120
+    imageHeight: 120
+    imageTitle: "https://keepmeme.com/meme/20210623/cat-standing-on-2-legs-holding-a-knife-meme.webp"
+    buttons:
+      - name: Posts
+        url: posts
+      - name: Tags
+        url: tags
+
+  # home-info mode
+  homeInfoParams:
+    Title: "Hi Developerss \U0001F44B"
+    Content: Welcome to my blog
+    Content: This is adithya rajendran,I am doing my bachelors in Amrita in Cse department.I like new technologies,sports and vibing .To be Honest For me the Some the amFoss tasks were so easy tat it can be even solved by vwery beginners like me.But some was little bit twisted for first timers.Overall The tasks were very helpfull for intitial push start for our carrier ahead  
+
+  socialIcons:
+    - name: twitter
+      url: "https://twitter.com/adithyarajendran"
+    - name: instagram
+      url: "https://www.instagram.com/_.adithya.rajendran._/"
+    - name: github
+      url: "https://github.com/adithyarjndrn"
+  analytics:
+    google:
+      SiteVerificationTag: "XYZabc"
+    bing:
+      SiteVerificationTag: "XYZabc"
+    yandex:
+      SiteVerificationTag: "XYZabc"
+
+  cover:
+    hidden: true # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: true # hide on single page
+
+  editPost:
+    URL: "https://github.com/<path_to_repo>/content"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
+
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+menu:
+  main:
+    - identifier: categories
+      name: categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 20
+    - identifier: example
+      name: Itsmeadithyarjndrn.org
+      url: "https://github.com/adithyarjndrn"
+      weight: 30
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+# pygmentsUseClasses: true
+# markup:
+#     highlight:
+#         # anchorLineNos: true
+#         codeFences: true
+#         guessSyntax: true
+#         lineNos: true
+#         style: monokai

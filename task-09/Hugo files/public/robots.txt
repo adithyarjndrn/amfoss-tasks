@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://adithyarjndrn.github.io/sitemap.xml
