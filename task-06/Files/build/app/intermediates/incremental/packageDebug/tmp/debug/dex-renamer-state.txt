@@ -1,0 +1,4 @@
+#Fri Nov 05 00:25:50 IST 2021
+base.0=C\:\\Users\\adith\\Desktop\\Amfoss\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+path.0=classes.dex
