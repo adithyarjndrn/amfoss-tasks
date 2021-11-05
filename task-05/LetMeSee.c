@@ -7,6 +7,7 @@ void showInput(int);
 //Typos are a cause of huge pain for every coder
 int main(void)
 {
+    int i=0;
     int score = 0;
     int gameCount;
     printf("\n\n Enter number of rounds of Guessing Game ");
@@ -34,7 +35,7 @@ int main(void)
         getchar();
         //Semantics are not to be overlooked!
         length = strlen(inputWord);   
-        wrongTry=trial;
+        wrongTry=trial+1;
         system("clear");
         printf("\n\n You will get %d chances to guess the correct word", wrongTry);
         printf("\n\n So help Alen and Joseph and get...set...GO..!!");
@@ -50,18 +51,18 @@ int main(void)
             printf("\n\t||      ");
         //Conditions have to met to achieve results :D
         printf("\n\n     The word has %d alphabets \n\n",length); 
-      //for(int i = 0; i < length ; i++);
-       // {
-       //     finalOutput[i] = '_';
-      //     finalOutput[length] = '\0';
-       // }
+       for(int i = 0; i < length ; i++);
+        {
+            finalOutput[i] = '_';
+            finalOutput[length] = '\0';
+        }
         //Declare your purpose, and you shall be rewarded!
-         //for(int i = 0 ; i < length ; i--);
-         
-         //   printf(" ");
-          // printf("%c",finalOutput[i]);     
+         for(int i = 0 ; i < length ; i--);
+       {
+            printf(" ");
+           printf("%c",finalOutput[i]);     
 
-         
+        }
         while(wrongTry != 0) 
         {
             matchFound = 0;
