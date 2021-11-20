@@ -4,7 +4,7 @@
 #include <string.h>
 #include <math.h>
 
-int main(void)
+int main (void)
 {
     int count_letter = 0;  
     int count_word = 1;     
