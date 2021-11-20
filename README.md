@@ -12,7 +12,7 @@
 |  [Task-05](https://github.com/adithyarjndrn/amfoss-tasks/tree/main/task-05)            | Letmesee.c          | **Completed**            |
 |  [Task-06](https://github.com/adithyarjndrn/amfoss-tasks/tree/main/task-06)               | Flutter             |**Completed**             |
 |  [Task-07](https://github.com/adithyarjndrn/amfoss-tasks/tree/main/task-07)              | Webscrapping using go|**Completed**             | 
-|  [Task-08](https://github.com/adithyarjndrn/amfoss-tasks/tree/main/task-08)              | html                | not completed            |
+|  [Task-08](https://github.com/adithyarjndrn/amfoss-tasks/tree/main/task-08)              | html                | not completed           |
 |  [Task-09](https://github.com/adithyarjndrn/amfoss-tasks/tree/main/task-09)              | personal-website    |**Completed**             | 
 |  [Task-10](https://github.com/adithyarjndrn/amfoss-tasks/tree/main/task-10)              | CS50                | paritialy completed 
 |  [Task-11](https://github.com/adithyarjndrn/amfoss-tasks/tree/main/task-11)               | Poster              |**Completed** 
