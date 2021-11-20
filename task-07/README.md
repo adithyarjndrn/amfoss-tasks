@@ -1,1 +1,1 @@
-**Even though i managed to scrap I couldnt get the desired output** 
+**Even though i managed to scrap I couldnt get the desired output in csv fie** 
