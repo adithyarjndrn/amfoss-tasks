@@ -1,2 +1,2 @@
 # Debugging of C program
-For a newbie like me it was not tat easy but after soo many unsucessfull attempts..I have managed to Debug it and run ..
+For a newbie like me it was not tat easy but after soo many unsucessfull attempts..I have managed to Debug it and run ...
