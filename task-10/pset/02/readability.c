@@ -37,9 +37,9 @@ int main (void)
     }
    
 
-    float calculation = (0.0588 * count_letter / count_word * 100) - (0.296 * count_sentence / count_word * 100) - 15.8; // to calculate Index
-    int index = round(calculation);  //then round up the Index
-    if (index < 1)    //
+    float calculation = (0.0588 * count_letter / count_word * 100) - (0.296 * count_sentence / count_word * 100) - 15.8; 
+    int index = round(calculation);  
+    if (index < 1)    
     {
         printf("Before Grade 1\n");   
     }
