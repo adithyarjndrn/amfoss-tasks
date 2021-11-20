@@ -4,7 +4,7 @@
 
 int main(void)
 {
-    string name = get_string("What is your name: "); //declare a string with 'name' variable
+    string name = get_string("What is your name: "); 
 
-    printf("hello, %s\n", name); //then print the name with %s 
+    printf("hello, %s\n", name); 
 }
