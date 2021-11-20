@@ -1,6 +1,6 @@
 # AMFOSS-TASK LIST
 **Hi my name is Adithya . Im from Thrissur, Kerala.These are the list of status of my tasks**
-Click [Here](https://github.com/adithyarjndrn/amfoss-tasks/tree/main/introspection) to go to my Introspection.
+Click [Here](https://github.com/adithyarjndrn/amfoss-tasks/tree/main/introspection) to go to my **Introspection**.
  
 | **Task List** |   **Description**  |   **Status**|  
 | --------------|--------------------| ------------| 
